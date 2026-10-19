@@ -1,0 +1,29 @@
+{
+    "schemaVersion":  2,
+    "githubPages":  {
+                        "repository":  null,
+                        "bindingStatus":  "pending",
+                        "authorizationStatus":  "pending",
+                        "owner":  "tianye525"
+                    },
+    "cloudbase":  {
+                      "envId":  "aipractice-d1gw5u2htf0c38026",
+                      "bindingStatus":  "configured",
+                      "authorizationStatus":  "pending",
+                      "clientStatus":  "pending"
+                  },
+    "ai":  {
+               "provider":  "siliconflow",
+               "setupMode":  "application-settings",
+               "credentialRef":  null,
+               "bindingStatus":  "pending",
+               "serviceStatus":  "pending"
+           },
+    "android":  {
+                    "skill":  "ai-coding-android",
+                    "appId":  "com.aicoding.aicoding2bec40cf",
+                    "preparationStatus":  "configured",
+                    "buildStatus":  "pending",
+                    "learnerTried":  "pending"
+                }
+}

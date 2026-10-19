@@ -1,0 +1,4 @@
+{
+  "textModel": "deepseek-ai/DeepSeek-V4-Flash",
+  "visionModel": "Qwen/Qwen3.8-27B"
+}
