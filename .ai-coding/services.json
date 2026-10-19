@@ -1,22 +1,22 @@
-{
+﻿{
     "schemaVersion":  2,
     "githubPages":  {
-                        "repository":  null,
-                        "bindingStatus":  "pending",
-                        "authorizationStatus":  "pending",
+                        "repository":  "tianye525/aicoding-2bec40cf",
+                        "bindingStatus":  "configured",
+                        "authorizationStatus":  "verified",
                         "owner":  "tianye525"
                     },
     "cloudbase":  {
                       "envId":  "aipractice-d1gw5u2htf0c38026",
                       "bindingStatus":  "configured",
-                      "authorizationStatus":  "pending",
-                      "clientStatus":  "pending"
+                      "authorizationStatus":  "verified",
+                      "clientStatus":  "configured"
                   },
     "ai":  {
                "provider":  "siliconflow",
                "setupMode":  "application-settings",
                "credentialRef":  null,
-               "bindingStatus":  "pending",
+               "bindingStatus":  "configured",
                "serviceStatus":  "pending"
            },
     "android":  {

@@ -1,7 +1,7 @@
 {
     "schemaVersion":  2,
     "baselineVersion":  "2.1.1",
-    "initializationStatus":  "pending",
+    "initializationStatus":  "verified",
     "toolchain":  {
                       "capabilities":  {
                                            "schemaVersion":  2,
